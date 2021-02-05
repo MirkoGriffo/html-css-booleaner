@@ -1,10 +1,12 @@
 .piccolo {
   font-size: 10px;
-}
+ }
 
 .azzurro {
   color: #00ccff;
 }
+
+
 
 header {
   background-image: url("../img/pattern.png");
@@ -15,5 +17,14 @@ header {
 }
 #logo {
   height: 30px;
-  padding: 25px 50px 75px 100px; 
+  padding: 25px 50px 75px 100px;
+}
+main {
+  margin: 25px 50px 75px 100px;
+}
+#scrittoda {
+  line-height: 0px;
+}
+.evidenziato {
+background-color: yellow;
 }

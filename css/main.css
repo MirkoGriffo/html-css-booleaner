@@ -1,0 +1,19 @@
+.piccolo {
+  font-size: 10px;
+}
+
+.azzurro {
+  color: #00ccff;
+}
+
+header {
+  background-image: url("../img/pattern.png");
+  background-size: 12%;
+  background-color: #4299f0;
+  height: 60px;
+  width: auto;
+}
+#logo {
+  height: 30px;
+  padding: 25px 50px 75px 100px; 
+}

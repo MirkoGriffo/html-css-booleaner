@@ -28,3 +28,20 @@ main {
 .evidenziato {
 background-color: yellow;
 }
+
+thead {
+  background-color: #66c2ff;
+  color: white;
+  text-align: left;
+  
+}
+
+.sfondo-azzurro {
+background-color: #b3e0ff;
+}
+th {
+  width: 150px;
+}
+table {
+  border-collapse: collapse;
+}

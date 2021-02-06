@@ -45,3 +45,24 @@ th {
 table {
   border-collapse: collapse;
 }
+
+.grigio {
+  color: gray;
+}
+#monitor {
+  width: 300px;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+}
+
+#grafico {
+  width: 300px;
+  height: 200px;
+  background-image: url(../img/graph.jpg);
+}
+
+.bianco {
+  color: white;
+  font-size: 25px;
+  padding: 16px;
+}

@@ -1,0 +1,83 @@
+body {
+  background-color: black;
+  color: yellow;
+}
+
+/* Header */
+
+header {
+  background-image: url("../img/pattern.png");
+  background-size: 12%;
+  background-color: #4299f0;
+  height: 60px;
+  width: auto;
+}
+#logo {
+  height: 30px;
+  padding: 25px 50px 75px 100px;
+}
+
+/* Main */
+
+img.tim {
+  border: 5px solid white;
+}
+
+main {
+  margin: 25px 50px 75px 100px;
+}
+#scrittoda {
+  line-height: 0px;
+}
+
+.azzurro {
+  color: #99ccff;
+}
+
+.evidenziato {
+  background-color: red;
+}
+
+.grigio {
+  color: gray;
+  font-size: 50px;
+}
+
+#monitor {
+  width: 300px;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+}
+
+#grafico {
+  width: 300px;
+  height: 200px;
+  background-image: url(../img/graph.jpg);
+}
+
+.bianco {
+  color: #f4d7d7;
+  font-size: 25px;
+  padding: 16px;
+}
+
+/* Tabella */
+
+.sfondo-azzurro {
+  background-color: #b3e0ff;
+}
+th {
+  width: 150px;
+}
+table {
+  border-collapse: collapse;
+  color: #f20d69;
+}
+thead {
+  background-color: #66c2ff;
+  color: black;
+  text-align: left;
+}
+tr {
+  background-color: #99ffcc;
+}
